@@ -9,6 +9,6 @@ A polybar script that displays your inbox
 [module/pm-inbox]
 type = custom/script
 exec = /path/to/polybar-pm.js 2>/dev/null
-click-left = /usr/bin/brave https://protonmail.com/login
+click-left = /path/to/your/browser https://protonmail.com/login
 interval = 3600
 ```
