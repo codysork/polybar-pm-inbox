@@ -18,7 +18,7 @@ font-0 = "Font Awesome 5 Free:style=Solid:size=10;1"
 ### Add to your modules.ini
 
 1. Make sure to include the filepath for this script on the ```exec``` line, leaving ```2>/dev/null```.
-2. Also add the path to your preffered Internet browser on the ```click-left``` line.
+2. Also add the path to your preferred Internet browser on the ```click-left``` line.
 
 ```
 [module/pm-inbox]
