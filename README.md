@@ -1,5 +1,5 @@
 # polybar-pm-inbox
-A polybar script that displays the number of emails in your Protonmail inbox.
+A polybar module that displays the number of emails in your Protonmail inbox.
 
 ## Add to your modules.ini
 
