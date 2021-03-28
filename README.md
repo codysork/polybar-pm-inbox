@@ -3,11 +3,10 @@ A polybar module that displays the number of emails in your Protonmail inbox.
 
 ## Requirements
 
-- [Optimus Manager](https://github.com/Askannz/optimus-manager)
+- [protonmail-api](https://github.com/justinkalland/protonmail-api) for node.js
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
 
 ## Setup
-
 ### Font
 For any bars you will be adding this module to, make sure you include Font Awesome as a font.
 ```
