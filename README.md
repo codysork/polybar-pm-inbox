@@ -23,7 +23,7 @@ font-0 = "Font Awesome 5 Free:style=Solid:size=10;1"
 ```
 [module/pm-inbox]
 type = custom/script
-exec = /path/to/polybar-pm.js 2>/dev/null
+exec = /path/to/pm-inbox.js 2>/dev/null
 click-left = /path/to/your/browser https://protonmail.com/login
 interval = 3600
 ```
